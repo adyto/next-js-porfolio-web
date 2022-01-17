@@ -20,13 +20,13 @@ export default function Porfolio() {
 
             <div className='porfolio-wrapper'>
               <div className='porfolio-item'>
-                <Image src='/gambar1.png' alt='image ogay minyak beku' width={500} height={500} className='porfolio-image'/>
-                <h4 className='porfolio-name'>Ogay Minyak Beku</h4>
+                <Image src='/gambar1.png' alt='image food recipes' width={500} height={500} className='porfolio-image'/>
+                <h4 className='porfolio-name'>Food Recipes</h4>
                 <div className='porfolio-category'> Web Developer</div>
               </div>
               <div className='porfolio-item'>
-                <Image src='/gambar2.png' alt='image ecommerce tester' width={500} height={500} className='porfolio-image'/>
-                <h4 className='porfolio-name'>Ecomerce Tester</h4>
+                <Image src='/gambar2.png' alt='image nft marketplace' width={500} height={500} className='porfolio-image'/>
+                <h4 className='porfolio-name'>NFT Marketplace</h4>
                 <div className='porfolio-category'> Mobile Developer</div>
               </div>
             </div>
