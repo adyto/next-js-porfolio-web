@@ -25,7 +25,7 @@ export default function Porfolio() {
                 <div className='porfolio-category'> Web Developer</div>
               </div>
               <div className='porfolio-item'>
-                <Image src='/gambar2.png' alt='image nft marketplace' width={500} height={500} className='porfolio-image'/>
+                <Image src='/gambar2.jpg' alt='image nft marketplace' width={500} height={500} className='porfolio-image'/>
                 <h4 className='porfolio-name'>NFT Marketplace</h4>
                 <div className='porfolio-category'> Mobile Developer</div>
               </div>
