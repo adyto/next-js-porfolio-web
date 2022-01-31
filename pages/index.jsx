@@ -12,11 +12,11 @@ export default function Home() {
     </Head>
     <Navbar />
 
-    <section className="hero">
-      <div className="container">
-        <div className="text-wrapper">
-          <h1 className="tittle">Hallo, saya Adi Yulianto</h1>
-          <p className="description">Saya seorang pekerja lepas pengembangan web, designer, editor vidio, dan full-stack developer</p>
+    <section className="hero md:h-[500px]">
+      <div className="container mx-auto px-20 2xl:px-0">
+        <div className="text-wrapper md:mt-6">
+          <h1 className="tittle mx-auto">Hallo, saya Adi Yulianto</h1>
+          <p className="description ">Saya seorang pekerja lepas pengembangan web, designer, editor vidio, dan full-stack developer</p>
 
           <Link href='/contact'>
             <a className="cta">Kontak Saya</a>

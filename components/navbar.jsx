@@ -13,7 +13,7 @@ function Navbar({ router }) {
   return (
     <nav>
       <div className="navbar">
-        <div className="container">
+        <div className="container mx-auto px-20 2xl:px-0">
           <Link href="/">
             <a className="logo">Adi.</a>
           </Link>
